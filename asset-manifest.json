@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/building-house-react-app/static/css/main.094dc553.css",
+    "main.js": "/building-house-react-app/static/js/main.56847a80.js",
+    "static/media/agent2.jpg": "/building-house-react-app/static/media/agent2.a105034e23facf96f0f6.jpg",
+    "static/media/header-bg.png": "/building-house-react-app/static/media/header-bg.442eb2e850c65e3e06af.png",
+    "static/media/navbar-bg.jpg": "/building-house-react-app/static/media/navbar-bg.0a2abe7cc079dccefd0d.jpg",
+    "static/media/house1.jpg": "/building-house-react-app/static/media/house1.724eefb839bd68dc3b04.jpg",
+    "static/media/house2.jpg": "/building-house-react-app/static/media/house2.2633219afdf78bbd691a.jpg",
+    "static/media/agent1.jpg": "/building-house-react-app/static/media/agent1.90a2dd158b56326421e3.jpg",
+    "static/media/house3.jpg": "/building-house-react-app/static/media/house3.6b36c6bfe25723bd2fbf.jpg",
+    "static/media/agent3.jpg": "/building-house-react-app/static/media/agent3.f8ecae146a7a8370bac2.jpg",
+    "index.html": "/building-house-react-app/index.html",
+    "main.094dc553.css.map": "/building-house-react-app/static/css/main.094dc553.css.map",
+    "main.56847a80.js.map": "/building-house-react-app/static/js/main.56847a80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.094dc553.css",
+    "static/js/main.56847a80.js"
+  ]
+}
